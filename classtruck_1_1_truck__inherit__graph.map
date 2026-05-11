@@ -1,0 +1,5 @@
+<map id="truck.Truck" name="truck.Truck">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,109,213"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="24,5,90,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,87,60,124,55,123,56,92"/>
+</map>
